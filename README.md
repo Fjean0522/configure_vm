@@ -17,7 +17,7 @@ Once the download is complete, double click the downloaded VirtualBox file to st
   Most likely you will need the x64 version. \
   ----image
   
-**Step 3: Configure VirtualBox  ** \
+**Step 3: Configure VirtualBox** \
 Once you have VirtualBox installed, launch the program. \
 -----image \
 * Click on the New button to create a virtual operating system
