@@ -1,3 +1,3 @@
-# Virtual Machine Install & Configurion 
+# Virtual Machine Install & Configuration
 
 ![Virtual Box Logo](./virtualBox.png)
