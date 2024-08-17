@@ -1,7 +1,7 @@
 # Virtual Machine Install & Configuration
 
 ## Step by step guide on how to install and configure a virtual machine using Oracle VirtualBox
-![Virtual Box Logo](./virtualBox.png)
+![Virtual Box Logo](./images/virtualBox_logo.png)
 
 **Step 1: Download OS ISO File** \
 Download the appropriate ISO file for the operating system you want to install on the virtual machine.
