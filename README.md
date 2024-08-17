@@ -32,16 +32,20 @@ Once you have VirtualBox installed, launch the program.
    Continue by pressing **Next**. 
 <img src="./images/createVM_2.png" style="width: 75%; height: auto;">
   
-  
 *  In the **Hardware** section you should set your Base Memory to a minimum of 2048 MB (Max: half of your total RAM)
-*  For **Processors** set it to be at least 2 (depends on your device capabilies, but 2 is standard), click **Next** to continue. \
-  ----image \
+*  For **Processors** set it to be at least 2 (depends on your device capabilies, but 2 is standard). \
+   Click **Next** to continue.
+<img src="./images/createVM_3.png" style="width: 75%; height: auto;">
+   
 *  For the **Virtual Hard Disk** set it to at least 30 GB (Check online for the minimum storage needed for the OS that you will be using on the virtual machine).
-*  Click **Next** to continue. On the next page (Summary page) you can click **Finish** to begin the installation process. you will know the installation is done when you see a login screen 
-   in the preview area
-*  Click the green arrow called **Show** and you’ll be shown a virtual machine window and the login screen. Log in with the password you set up during the installation process \
-  ----image \
-*  Install VirtualBox Guest Additions (Optional but Recommended). Inside the virtual machine window, click on "Devices" in the menu bar and select "Insert Guest Additions CD image."
-   Follow the prompts to install the Guest Additions for better performance. \
-   ----image
+   Click **Next** to continue.
+<img src="./images/createVM_4.png" style="width: 75%; height: auto;">
+   
+*  On the next page (Summary page) you can click **Finish** to begin the installation process. you will know the installation is done when you see a login screen 
+   in the preview area.
+*  Click the green arrow called **Show** and you’ll be shown a virtual machine window and the login screen. Log in with the password you set up during the installation process.
+<img src="./images/createVM_5.png" style="width: 75%; height: auto;">
 
+*  Install VirtualBox Guest Additions (Optional but Recommended). Inside the virtual machine window, click on "Devices" in the menu bar and select "Insert Guest Additions CD image."
+   Follow the prompts to install the Guest Additions for better performance.
+<img src="./images/createVM_6.png" style="width: 75%; height: auto;">
