@@ -1,15 +1,16 @@
 # Virtual Machine Install & Configuration
 
 ## Step by step guide on how to install and configure a virtual machine using Oracle VirtualBox
-![Virtual Box Logo](./images/virtualBox_logo.png)
+<img src="./images/virtualBox_logo.png" style="width: 75%; height: auto;">
 
 **Step 1: Download OS ISO File** \
 Download the appropriate ISO file for the operating system you want to install on the virtual machine.
 
 **Step 2: Download VirtualBox** \
-Head over to the [VirtualBox](https://www.virtualbox.org) website to download. \
-\
------image
+Head over to the [VirtualBox](https://www.virtualbox.org) website to download. 
+
+<img src="./images/virtualBox_site.png" style="width: 75%; height: auto;">
+
 Once the download is complete, double click the downloaded VirtualBox file to start the installation process.
 
 * Note: For Windows users, If you get an error about needing Microsoft Visual C++ 2019 Redistributable Package, \
